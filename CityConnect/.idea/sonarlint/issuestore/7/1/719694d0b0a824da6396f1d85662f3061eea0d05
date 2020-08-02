@@ -1,0 +1,10 @@
+
+Q
+java:S2864;"4Iterate over the "entrySet" instead of the "keySet".(Ëä„æ8‰´ú²º.
+W
+java:S1128";Remove this unused import 'org.apache.logging.log4j.Level'.(±âØl8ÆÈõµº.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ß©Êœûÿÿÿÿ
+a
+java:S2095""DUse try-with-resources or close this "Stream" in a "finally" clause.(èù¸¯8æ·Ô²º.
+^
+java:S34573"AFormat specifiers should be used instead of string concatenation.(±“ˆ‹8‚ãÞ¶º.
